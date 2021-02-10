@@ -23,5 +23,4 @@ server:
 eureka: 
   client:
     serviceUrl:
-      # Direccion a la que se conecta el microservicio con eureka
       defaultZone: http://localhost:8761/eureka
